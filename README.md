@@ -12,11 +12,9 @@ npm install
 npm start
 ```
 
-Frontend Demo: https://blog-using-react-and-django.vercel.app/
+Frontend Demo: https://discord-clone-using-react-js.vercel.app/
 
 
 ![Images](docs/images/discord.gif)
 <br>
-![Images](docs/images/discord_landing_page.PNG)
-![Images](docs/images/discord_home.PNG)
-![Images](docs/images/discord_chat1.PNG)
+![Images](docs/images/discord_chat.PNG)
